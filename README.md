@@ -3,10 +3,9 @@
 > 🐶 AI 서비스 개발 개밥먹기 저장소, 8주간 학습과 실험을 기록합니다.
 
 ## DONE ✅
-- 진행중
+- W1 언어모델 튜닝 - LoRA/PEFT 혹은 QLoRA, 데이터셋은 NSMC/KorQuAD
 
 ## TODO 🏃‍♂️
-- W1 언어모델 튜닝 - LoRA/PEFT 혹은 QLoRA, 데이터셋은 NSMC/KorQuAD
 - W2 언어모델 서빙 - Docker model runner 사용, FastAPI에 연결해 캐싱/입력검증/타임아웃/재시도 등
 - W3-4 RAG 실험 - 문서수집후 청킹/임베딩/top-k 진행, 일반/튜닝모델을 동일 데이터로 비교
 - W5 프롬프트/품질 - 시스템/퓨샷 프롬프트 실험, Precision/Recall 검색품질 수치화
